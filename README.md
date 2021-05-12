@@ -35,7 +35,8 @@ Alunos: Bruno Varela, Elias, Ricardo.
 #### Node (JavaScript)
 - Linguagem: Node v14.17.0
 - Bibliotecas: soap 0.37.0 (https://github.com/vpulim/node-soap)
-- Comando: ```node cliente.js```
+- Comando 1: ```npm install soap```
+- Comando 2: ```node cliente.js```
 
 
 
