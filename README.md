@@ -1,6 +1,9 @@
 Trabalho de Sistemas de Informação 7º Semestre.
+
 Disciplina de Sistemas Distribuídos.
+
 Alunos: Bruno Varela, Elias, Ricardo.
+
 
 ### Servidor
 Linguagem: Python 3.9
