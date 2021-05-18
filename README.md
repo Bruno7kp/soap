@@ -5,6 +5,26 @@ Disciplina de Sistemas Distribuídos.
 Alunos: Bruno Varela, Elias, Ricardo.
 
 
+### Instalação
+Baixe ou clone os arquivos desse repositório para a sua máquina.
+Abra o terminal na pasta principal e execute os seguintes comandos:
+
+Para criar o ambiente virtual do python:
+
+```python -m venv venv```
+
+Para ativar o ambiente virtual:
+
+```venv\Scripts\activate.bat```
+
+Para instalar as bibliotecas utilizadas:
+
+```python -m pip install pysimplesoap```
+
+```python -m pip install zeep```
+
+Para iniciar o servidor e os clientes, execute os comandos listados abaixo:
+
 ### Servidor
 - Linguagem: Python 3.8
 - Bibliotecas: PySimpleSOAP 1.16.2
