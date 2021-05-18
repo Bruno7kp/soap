@@ -62,7 +62,7 @@ Para iniciar o servidor e os clientes, execute os comandos listados abaixo:
 #### Ruby 
 - Linguagem: Ruby 2.7.3
 - Bibliotecas: Savon 2.12.1 (https://www.savonrb.com/version2/client.html)
-- Comando 1: ```gem install savon --version '> 2.0'```
+- Comando 1: ```gem install savon --version '2.12.1'```
 - Comando 2: ```ruby cliente.rb```
 
 
